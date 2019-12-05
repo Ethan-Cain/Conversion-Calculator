@@ -1,2 +1,2 @@
-# Conversion-Calculator
-IT 4405 Conversion Calculator
+# Conversion-Calculator-Final
+IT 4405 Conversion Calculator for final project.
